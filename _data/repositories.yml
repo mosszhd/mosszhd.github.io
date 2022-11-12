@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mosszhd
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mosszhd/Curricular-SincNet-1
+  - mosszhd/House-Price-Prediction
+  - mosszhd/PothDekhan
+  - mosszhd/SE-ElasticSearch
+  - mosszhd/Top-Hacker-News-Scraper
+  - mosszhd/Password-Checker
+  - mosszhd/Problem-Solutions
+  - mosszhd/Search-Engine-Using-SQL
+  - mosszhd/python_email_sender
+  - mosszhd/Titanic_Survival_Prediction
